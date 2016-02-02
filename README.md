@@ -6,7 +6,9 @@ https://guides.github.com/
 
 
 COMP4530 - Advanced Software Engineering (3,1,0)
+
 Assignment 4
+
 Due February 23rd 2016
 
 Topics Covered:
